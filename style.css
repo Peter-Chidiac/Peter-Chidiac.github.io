@@ -2,7 +2,7 @@
     width: 100px;
     height: 100px;
     position: relative;
-    margin: 200px;
+    margin: 1000px;
     transform: rotate(-135deg);
     animation-name: beat;
     animation-duration: 1s;
@@ -41,4 +41,8 @@
         width: 200px;
         height: 200px
     }
+}
+
+heart:hover {
+    background-color: rgb(123, 0, 255);
 }
