@@ -2,7 +2,7 @@
     width: 100px;
     height: 100px;
     position: relative;
-    margin: 1000px;
+    margin: 20px;
     transform: rotate(-135deg);
     animation-name: beat;
     animation-duration: 1s;
